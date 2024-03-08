@@ -5,8 +5,6 @@
 #include <conio.h>
 #include "Prep.h"
 #include "Writing.h"
-/*大一上的时候C语言入门学的一个小游戏。还是挺有意思的，有兴趣的同学可以继续优化下：比如蛇头碰到蛇身就判定为输 /给蛇身加点颜色等。
-*/
 
 void drawMap();
 void createFood();
